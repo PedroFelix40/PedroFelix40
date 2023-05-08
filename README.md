@@ -30,7 +30,3 @@
 </div>
 
 ##
-
-<div align="center">
-  <img height="150em" src="https://cdn.discordapp.com/attachments/869366332972486657/1092146589960773652/rounded-in-photoretrica_1.png"/>
-  </div>
