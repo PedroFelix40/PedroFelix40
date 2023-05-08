@@ -1,3 +1,19 @@
+<div>
+  
+  <h1 align="center">
+    Oi, oi. Tudo bem? Meu nome é 
+    <a href="https://www.linkedin.com/in/filipe-góis-841b58206/">Filipe Góis 😁</a>
+  </h1>
+  
+  
+  
+  <p align="center">
+    Estou cursando desenvolvimento de sistemas no Senai Paulo Skaf.
+    
+  </p>
+  
+</div>
+
 </div>
 
 <div align="center">
