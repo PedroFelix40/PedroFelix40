@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Olá, Tudo bem? Meu nome é 
-    <a href="https://www.linkedin.com/in/pedro-gabriel-felix-da-silva-b24818238/">Pedro Felix</a>
+    <a href="https://www.linkedin.com/in/pedro-felix-b24818238/">Pedro Felix</a>
   </h1>
   
   
